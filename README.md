@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+  <a href="https://open.spotify.com/user/Priom7">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Priom7&count=3&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
