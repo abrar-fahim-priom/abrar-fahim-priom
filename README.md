@@ -63,8 +63,6 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 
-![Snake animation](https://raw.githubusercontent.com/{abrar-fahim-priom}/{abrar-fahim-priom}/output/github-contribution-grid-snake-dark.svg)
-
 <p align="center">
  
   <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=abrar-fahim-priom&theme=react&hide_border=false" />
