@@ -62,10 +62,17 @@
 
 
 <h3 align="left">📊 GitHub Stats:</h3>
+
+![Snake animation](https://raw.githubusercontent.com/{abrar-fahim-priom}/{abrar-fahim-priom}/output/github-contribution-grid-snake-dark.svg)
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abrar-fahim-priom&theme=react&hide_border=false&include_all_commits=true&count_private=true" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abrar-fahim-priom&theme=react&hide_border=false" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrar-fahim-priom&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+ 
+  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=abrar-fahim-priom&theme=react&hide_border=false" />
+   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrar-fahim-priom&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /> <br> 
+   
+   <a href="https://spotify-github-profile.vercel.app/api/view?uid=31vfcxbzmahitsbjebixj4zhy2tu&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31vfcxbzmahitsbjebixj4zhy2tu&cover_image=false&theme=default&show_offline=true&background_color=1a1a1a&interchange=false&bar_color=53b14f&bar_color_cover=true" />
+  </a>
 </p>
 
 
